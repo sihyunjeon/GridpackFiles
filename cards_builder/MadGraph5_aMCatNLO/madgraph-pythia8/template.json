@@ -1,0 +1,26 @@
+{
+    "__remove__":
+        ["a. Last entry in run_card or user array should not end with a comma",
+         "b. __fill_in__ needs to be done manually",
+         "c. Write run_card stuffs with same format 'set run_card <var> <value>'",
+         "d. Remove this section!"
+        ],
+
+    "scheme": "__mass_scheme__.dat",
+
+    "run_card":{
+        "parton_shower": "pythia8",
+        "ickkw": "0",
+        "xqcut": "0",
+        "maxjetflavor": "__flavor__"
+    },
+
+    "user":[
+         "__fill_in__",
+         "__fill_in__"
+    ],
+
+    "fragment":[
+    ]
+
+}
